@@ -2,8 +2,7 @@
 ### fall semester
 
 
-#### 程式開發與執行環境說明 
-##### python3.7 
+#### 執行環境 python3.7 
 
 
 #### folders 
