@@ -1,11 +1,12 @@
 ## Image Processing course HW @ NYCU 
-### fall semester
+### fall semester <br><br>
 
 
-#### 執行環境 : python3.7 <br><br>
+#### 執行環境 <br>
+python3.7 <br><br>
 
 
-#### folders 
+### folders 
 + HW 1
   + Histogram Equalization
   + Histogram Matching
