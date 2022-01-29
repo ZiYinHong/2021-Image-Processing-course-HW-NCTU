@@ -1,4 +1,4 @@
-## Image Processing course HW @ NYCU 2021
+## Digital Image Processing course HW @ NYCU 2021
 ### fall semester <br><br>
 
 
